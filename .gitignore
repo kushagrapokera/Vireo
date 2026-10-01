@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+run_costs.jsonl
+
+# Client data — Vireo's confidential export, deliberately not published.
+# This repo is public. The tool globs for these files in the project root
+# (see vireo/config.py DATA_FILES); place the pack there to run it.
+*-tickets.csv
+*-customers.csv
+*-orders.csv
+*-agents.csv
+*-products.csv
+*.pdf

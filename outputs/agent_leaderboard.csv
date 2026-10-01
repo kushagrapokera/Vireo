@@ -1,0 +1,45 @@
+caveat,agent_id,closes,tier,weeks_active,closes_per_active_week,name,team,site
+closes per active week normalizes for roster start dates; volume is not quality,A3031,451,Tier 1,113,3.9911504424778763,Aishwarya Agarwal,Logistics,Indore
+closes per active week normalizes for roster start dates; volume is not quality,A3028,393,Tier 1,120,3.275,Tarun Pereira,Logistics,Bengaluru
+closes per active week normalizes for roster start dates; volume is not quality,A3011,313,Tier 1,102,3.0686274509803924,Kavya Goyal,Chat Frontline,Bengaluru
+closes per active week normalizes for roster start dates; volume is not quality,A3033,704,Tier 1,238,2.957983193277311,Diya Singh,Billing,Bengaluru
+closes per active week normalizes for roster start dates; volume is not quality,A3029,472,Tier 1,175,2.697142857142857,Geeta Rathore,Logistics,Indore
+closes per active week normalizes for roster start dates; volume is not quality,A3032,268,Tier 1,105,2.552380952380952,Diya Malhotra,Billing,Bengaluru
+closes per active week normalizes for roster start dates; volume is not quality,A3016,249,Tier 1,101,2.4653465346534653,Ayaan Pawar,Email Frontline,Indore
+closes per active week normalizes for roster start dates; volume is not quality,A3036,334,Tier 1,148,2.2567567567567566,Saanvi Saxena,Returns Desk,Bengaluru
+closes per active week normalizes for roster start dates; volume is not quality,A3030,350,Tier 1,167,2.095808383233533,Gurpreet Kulkarni,Logistics,Bengaluru
+closes per active week normalizes for roster start dates; volume is not quality,A3006,269,Tier 1,139,1.935251798561151,Tenzin Saxena,Chat Frontline,Bengaluru
+closes per active week normalizes for roster start dates; volume is not quality,A3037,502,Tier 1,267,1.8801498127340823,Vivaan Sethi,Returns Desk,Bengaluru
+closes per active week normalizes for roster start dates; volume is not quality,A3015,164,Tier 1,90,1.8222222222222222,Faisal Pereira,Chat Frontline,Indore
+closes per active week normalizes for roster start dates; volume is not quality,A3035,279,Tier 1,157,1.7770700636942676,Mohammed Jadhav,Billing,Indore
+closes per active week normalizes for roster start dates; volume is not quality,A3019,385,Tier 1,218,1.7660550458715596,Kavya D'Souza,Email Frontline,Bengaluru
+closes per active week normalizes for roster start dates; volume is not quality,A3017,248,Tier 1,141,1.7588652482269505,Kabir Mathew,Email Frontline,Indore
+closes per active week normalizes for roster start dates; volume is not quality,A3034,314,Tier 1,179,1.7541899441340782,Manpreet Mukherjee,Billing,Indore
+closes per active week normalizes for roster start dates; volume is not quality,A3021,355,Tier 1,206,1.7233009708737863,Pooja Dhillon,Email Frontline,Bengaluru
+closes per active week normalizes for roster start dates; volume is not quality,A3001,215,Tier 1,131,1.6412213740458015,Shreya Kumar,Chat Frontline,Indore
+closes per active week normalizes for roster start dates; volume is not quality,A3038,374,Tier 1,228,1.6403508771929824,Pooja Patil,Returns Desk,Indore
+closes per active week normalizes for roster start dates; volume is not quality,A3027,383,Tier 1,278,1.3776978417266188,Rajat Saxena,Logistics,Indore
+closes per active week normalizes for roster start dates; volume is not quality,A3008,182,Tier 1,138,1.318840579710145,Manish Jain,Chat Frontline,Indore
+closes per active week normalizes for roster start dates; volume is not quality,A3003,225,Tier 1,171,1.3157894736842106,Rohit Yadav,Chat Frontline,Indore
+closes per active week normalizes for roster start dates; volume is not quality,A3012,276,Tier 1,239,1.1548117154811715,Rahul Sen,Chat Frontline,Bengaluru
+closes per active week normalizes for roster start dates; volume is not quality,A3007,177,Tier 1,155,1.1419354838709677,Shreya Dhillon,Chat Frontline,Bengaluru
+closes per active week normalizes for roster start dates; volume is not quality,A3004,301,Tier 1,270,1.114814814814815,Aishwarya Shinde,Chat Frontline,Bengaluru
+closes per active week normalizes for roster start dates; volume is not quality,A3026,212,Tier 1,196,1.0816326530612246,Vihaan Dutta,Voice Frontline,Bengaluru
+closes per active week normalizes for roster start dates; volume is not quality,A3002,197,Tier 1,192,1.0260416666666667,Zoya Srivastava,Chat Frontline,Indore
+closes per active week normalizes for roster start dates; volume is not quality,A3022,190,Tier 1,197,0.9644670050761421,Yash Mittal,Email Frontline,Bengaluru
+closes per active week normalizes for roster start dates; volume is not quality,A3023,184,Tier 1,192,0.9583333333333334,Farah George,Voice Frontline,Indore
+closes per active week normalizes for roster start dates; volume is not quality,A3024,162,Tier 1,175,0.9257142857142857,Mohammed Kaur,Voice Frontline,Indore
+closes per active week normalizes for roster start dates; volume is not quality,A3025,203,Tier 1,221,0.918552036199095,Riya Siddiqui,Voice Frontline,Bengaluru
+Tier 2 cases are multi-day by design (policy §6) — not comparable with Tier 1 volume,A3040,158,Tier 2,178,0.8876404494382022,Sai Sharma,Escalations & Warranty,Bengaluru
+Tier 2 cases are multi-day by design (policy §6) — not comparable with Tier 1 volume,A3044,175,Tier 2,201,0.8706467661691543,Meera Joshi,Escalations & Warranty,Indore
+closes per active week normalizes for roster start dates; volume is not quality,A3013,165,Tier 1,192,0.859375,Ayaan Dutta,Chat Frontline,Bengaluru
+closes per active week normalizes for roster start dates; volume is not quality,A3005,170,Tier 1,212,0.8018867924528302,Sameer Menon,Chat Frontline,Indore
+closes per active week normalizes for roster start dates; volume is not quality,A3020,176,Tier 1,232,0.7586206896551724,Ankit Ansari,Email Frontline,Bengaluru
+closes per active week normalizes for roster start dates; volume is not quality,A3018,185,Tier 1,264,0.7007575757575758,Sukhwinder Bose,Email Frontline,Bengaluru
+Tier 2 cases are multi-day by design (policy §6) — not comparable with Tier 1 volume,A3039,91,Tier 2,130,0.7,Vivaan Kulkarni,Escalations & Warranty,Indore
+closes per active week normalizes for roster start dates; volume is not quality,A3014,172,Tier 1,246,0.6991869918699187,Manpreet Iyer,Chat Frontline,Bengaluru
+closes per active week normalizes for roster start dates; volume is not quality,A3010,189,Tier 1,286,0.6608391608391608,Om Varghese,Chat Frontline,Indore
+Tier 2 cases are multi-day by design (policy §6) — not comparable with Tier 1 volume,A3042,112,Tier 2,193,0.5803108808290155,Aishwarya Kaur,Escalations & Warranty,Bengaluru
+closes per active week normalizes for roster start dates; volume is not quality,A3009,159,Tier 1,282,0.5638297872340425,Sameer Agarwal,Chat Frontline,Bengaluru
+Tier 2 cases are multi-day by design (policy §6) — not comparable with Tier 1 volume,A3043,91,Tier 2,165,0.5515151515151515,Rahul Gupta,Escalations & Warranty,Bengaluru
+Tier 2 cases are multi-day by design (policy §6) — not comparable with Tier 1 volume,A3041,92,Tier 2,198,0.46464646464646464,Deepak Mathew,Escalations & Warranty,Indore

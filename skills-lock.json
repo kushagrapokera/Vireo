@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "skills": {
+    "clean-code": {
+      "source": "florianbuetow/claude-code",
+      "sourceType": "github",
+      "skillPath": "plugins/clean-code/skills/clean-code/SKILL.md",
+      "computedHash": "727fa5725d8bbe773c4e90369eaa1c8b68cfa3d4842974f9fa040bc3c2f33d89"
+    },
+    "kiss": {
+      "source": "florianbuetow/claude-code",
+      "sourceType": "github",
+      "skillPath": "plugins/kiss/skills/kiss/SKILL.md",
+      "computedHash": "d573fd19e23c5f28aa11263dcccb60ff5276f3e72f707268ffc4b78c5c92f9c2"
+    },
+    "python-testing-patterns": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "skillPath": "plugins/python-development/skills/python-testing-patterns/SKILL.md",
+      "computedHash": "a0c0cd2841eb80fc082b360ebbee1ad69275234229e525a6da1baaee3f5a52bd"
+    }
+  }
+}
